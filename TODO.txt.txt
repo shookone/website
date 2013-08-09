@@ -1,0 +1,1 @@
+spacegallery icons used to be in folder called images, not img. could cause mess up in files. 
